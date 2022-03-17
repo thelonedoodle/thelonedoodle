@@ -1,4 +1,4 @@
-### Hi there I'm Alsya 👋
+### Hi there I'm Alsya 👋 I'm a Computer Science Major who is currently learning about Software Engineering and Web Design.
 
 
 <!--
